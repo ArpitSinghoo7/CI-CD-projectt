@@ -1,3 +1,22 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "architecture-diagram",
+      "description": "A high-level CI/CD architecture diagram showing GitHub, Jenkins, Docker, and the target server.",
+      "imageUrl": "https://picsum.photos/seed/syscheck-arch/800/450",
+      "imageHint": "devops architecture"
+    },
+    {
+      "id": "jenkins-pipeline",
+      "description": "A screenshot showing a successful Jenkins pipeline execution with multiple stages.",
+      "imageUrl": "https://picsum.photos/seed/jenkins-flow/800/400",
+      "imageHint": "jenkins dashboard"
+    },
+    {
+      "id": "docker-containers",
+      "description": "A terminal view showing running Docker containers.",
+      "imageUrl": "https://picsum.photos/seed/docker-status/800/400",
+      "imageHint": "terminal docker"
+    }
+  ]
 }
